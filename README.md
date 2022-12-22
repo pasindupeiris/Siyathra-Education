@@ -4,7 +4,7 @@ I create this online web site using HTML CSS and JAVA SCRIPT.
 And I use Photo where i add web site get from online
 
 
-Live Demo
+Live Demo : https://pasindupeiris.github.io/Siyathra-Education/
 
 
 
